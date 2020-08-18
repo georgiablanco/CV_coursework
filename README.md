@@ -1,5 +1,5 @@
 # CV_coursework
-Computer Vision Visual Search and Report Coursework 
+Computer Vision Visual Search and Report Coursework 2019
 
 This report reviews the main techniques used in a basic visual search system, including the
 various descriptors that can be obtained from images and several methods to compute the
